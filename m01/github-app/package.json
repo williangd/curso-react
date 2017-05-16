@@ -25,6 +25,7 @@
     "webpack-validator": "^3.0.0"
   },
   "dependencies": {
+    "@fdaciuk/ajax": "^2.1.5",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   }
